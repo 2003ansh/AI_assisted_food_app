@@ -1,0 +1,746 @@
+[
+  {
+    "restaurant": "Filmy Food",
+    "item": "Biryani Raita",
+    "price": 20,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "SHANTI RESTAURANT",
+    "item": "Veg Biryani (half)",
+    "price": 70,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "AMBIKA CATERING",
+    "item": "Veg Biryani",
+    "price": 90,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "ALFA FAMILY RESTAURANT",
+    "item": "Veg Biryani",
+    "price": 90,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "PREETI BHOJANALAYA",
+    "item": "Veg Dum Biryani",
+    "price": 91,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Hotel Bhagabati",
+    "item": "Special Veg Biryani",
+    "price": 100,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Kabab House",
+    "item": "Veg Dum Biryani",
+    "price": 100,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "SHANTI RESTAURANT",
+    "item": "Veg Biryani (full)",
+    "price": 100,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Swaad Restaurant",
+    "item": "Biryani Rice",
+    "price": 104,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "ALFA FAMILY RESTAURANT",
+    "item": "Paneer Biryani",
+    "price": 110,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Mr Grill",
+    "item": "Veg Dum Biryani",
+    "price": 120,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Mr Grill",
+    "item": "Veg Dum Biryani",
+    "price": 120,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Bansi Krishna Delights",
+    "item": "Biryani Maggi",
+    "price": 120,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Bawarchi Fast Food",
+    "item": "Veg Biryani",
+    "price": 129,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "FOOD KING",
+    "item": "Veg Dum Biryani",
+    "price": 129,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "FOOD KING",
+    "item": "Veg Dum Biryani",
+    "price": 129,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "BAWARCHI AC FAMILY RESTAURANT",
+    "item": "Veg Biryani[half]",
+    "price": 129,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Eat Hygiene",
+    "item": "Veg Dum Biryani with Raita",
+    "price": 129,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Jiban Jyoti Food Cafe",
+    "item": "Veg Biryani",
+    "price": 129,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Rajani's Kitchen",
+    "item": "Veg Biryani",
+    "price": 130,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Shahi Darbar",
+    "item": "BMC Veg Biryani",
+    "price": 130,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Hungry Jack",
+    "item": "BMC Veg Biryani",
+    "price": 130,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Bade Miya Chhote Miya",
+    "item": "BMC Veg Biryani",
+    "price": 130,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Rasoi",
+    "item": "Veg Biryani (half)",
+    "price": 139,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Food Masti",
+    "item": "Veg Biryani",
+    "price": 140,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Janessa Restaurant",
+    "item": "Veg Biryani",
+    "price": 140,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Bengal Delight",
+    "item": "Veg Biryani",
+    "price": 140,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "YELLOW CHILLI",
+    "item": "Veg Biryani",
+    "price": 140,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Tastry",
+    "item": "Veg Biryani",
+    "price": 145,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Tastry",
+    "item": "Veg Biryani",
+    "price": 145,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Smruti's Kitchen",
+    "item": "Veg Dum Biryani",
+    "price": 149,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Smruti's Kitchen",
+    "item": "Veg Dum Biryani",
+    "price": 149,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Grand Paradise",
+    "item": "Veg Biryani",
+    "price": 149,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Grand Paradise",
+    "item": "Veg Biryani",
+    "price": 149,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "RED MIRCHI",
+    "item": "Veg Biryani",
+    "price": 149,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Food Masti",
+    "item": "Veg Hyderabadi Biryani",
+    "price": 150,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Aditya Restaurant",
+    "item": "Vegetable Biryani",
+    "price": 150,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Aditya Restaurant",
+    "item": "Vegetable Biryani",
+    "price": 150,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Hashim's",
+    "item": "Veg Biryani",
+    "price": 150,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Hotel Ashoka",
+    "item": "Veg Biryani",
+    "price": 150,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Bhagaban Sahoo Snacks & Sweets",
+    "item": "Veggie Delight Dum Biryani",
+    "price": 150,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Bengal Delight",
+    "item": "Mushroom Biryani",
+    "price": 150,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Bhagaban Sahoo Snacks & Sweets",
+    "item": "Hyderabadi Paneer Dum Biryani",
+    "price": 155,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Bhagaban Sahoo Snacks & Sweets",
+    "item": "Mushroom Dum Biryani",
+    "price": 155,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Food Masti",
+    "item": "Food Masti Special Veg Biryani",
+    "price": 160,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Swaad Restaurant",
+    "item": "Veg Biryani (Full)",
+    "price": 160,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Swaad Restaurant",
+    "item": "Veg Biryani (Full)",
+    "price": 160,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "GayTop Restaurant",
+    "item": "Veg Dum Biryani",
+    "price": 160,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "PICNIC",
+    "item": "Veg Biryani",
+    "price": 160,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Bengal Delight",
+    "item": "Paneer Biryani",
+    "price": 160,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "RED MIRCHI",
+    "item": "Paneer Biryani",
+    "price": 160,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "SAKAHARI",
+    "item": "Veg Dum Biryani",
+    "price": 160,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Mirchi",
+    "item": "Veg Biryani",
+    "price": 165,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Mirchi",
+    "item": "Veg Biryani",
+    "price": 165,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Bhagaban Sahoo Snacks & Sweets",
+    "item": "Paneer 65 Biryani",
+    "price": 165,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Mahabir Delight",
+    "item": "Veg Biryani HALF",
+    "price": 169,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Mahabir Delight",
+    "item": "Veg Biryani HALF",
+    "price": 169,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Khandani Kitchen",
+    "item": "Veg Biryani",
+    "price": 169,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "HOTEL NEELADRI",
+    "item": "Veg Tawa Biryani",
+    "price": 170,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Spicy Village",
+    "item": "Veg Biryani",
+    "price": 170,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "YELLOW CHILLI",
+    "item": "Paneer Biryani [6Pcs]",
+    "price": 170,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Green Chillyz",
+    "item": "Biryani Rice",
+    "price": 175,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "The Kitchen Club",
+    "item": "Veg Dum Biryani",
+    "price": 177,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Chikmos",
+    "item": "Veg Biryani",
+    "price": 179,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Skyfall Restaurant",
+    "item": "Veg Biryani",
+    "price": 179,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "HOTEL NEELADRI",
+    "item": "Paneer Tawa Biryani",
+    "price": 180,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Green Chillyz",
+    "item": "Veg Baby Biryani",
+    "price": 180,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Shloka Restaurant & Lounge",
+    "item": "Mushroom And Paneer Biryani",
+    "price": 180,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Shloka Restaurant & Lounge",
+    "item": "Paneer Dum Biryani",
+    "price": 180,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Shloka Restaurant & Lounge",
+    "item": "Veg Dum Biryani",
+    "price": 180,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "SAKAHARI",
+    "item": "Mushroom & Paneer Biryani",
+    "price": 180,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "SAKAHARI",
+    "item": "Paneer Dum Biryani",
+    "price": 180,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Bhagaban Sahoo Snacks & Sweets",
+    "item": "Paneer N Mushroom Special Dum Biryani",
+    "price": 185,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "KFC",
+    "item": "Veg Biryani Bucket",
+    "price": 188.57,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "KFC",
+    "item": "Veg Biryani Bucket",
+    "price": 188.57,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Grand Paradise",
+    "item": "Paneer Biryani",
+    "price": 189,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Grand Paradise",
+    "item": "Paneer Biryani",
+    "price": 189,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Hashim's",
+    "item": "Paneer Tikka Biryani",
+    "price": 190,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Mirchi",
+    "item": "Paneer Biryani",
+    "price": 195,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Mirchi",
+    "item": "Paneer Biryani",
+    "price": 195,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Rajani's Kitchen",
+    "item": "Paneer Tikka Biryani",
+    "price": 195,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Rajani's Kitchen",
+    "item": "Paneer Tikka Biryani",
+    "price": 195,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "New Mughlai Restaurant",
+    "item": "Veg Biryani",
+    "price": 199,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "New Mughlai Restaurant",
+    "item": "Veg Biryani",
+    "price": 199,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Mughlai Restaurant",
+    "item": "Veg Dum Biryani",
+    "price": 199,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Bombay Restaurant- Hotel Bombay Inn",
+    "item": "Veg Biryani",
+    "price": 199,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Bombay Restaurant- Hotel Bombay Inn",
+    "item": "Veg Biryani",
+    "price": 199,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Filmy Food",
+    "item": "Veg Dum Biryani",
+    "price": 199,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Sher E Punjab",
+    "item": "Vegetable Biryani",
+    "price": 200,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "INOX",
+    "item": "Hyderabadi Biryani",
+    "price": 200,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "HOTEL ANAND",
+    "item": "Corn Biryani[Full]",
+    "price": 200,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Bombay Restaurant- Hotel Bombay Inn",
+    "item": "Hyderabadi Biryani",
+    "price": 209,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Bombay Restaurant- Hotel Bombay Inn",
+    "item": "Veg Paneer Biryani",
+    "price": 209,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Jagadamba Fast Food & Restaurant",
+    "item": "Veg Biryani",
+    "price": 210,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "THE BOWL KING",
+    "item": "Veg Biryani + Sabz Jalfrezi",
+    "price": 210,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Grill Bill Buxi Bazar",
+    "item": "Veg Paneer Dum Biryani",
+    "price": 219,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "HOTEL ANAND",
+    "item": "Mushroom Biryani[Full]",
+    "price": 220,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "New Mughlai Restaurant",
+    "item": "Paneer Biryani",
+    "price": 229,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "New Mughlai Restaurant",
+    "item": "Paneer Biryani",
+    "price": 229,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Rasoi",
+    "item": "Veg Biryani (full)",
+    "price": 229,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "BAWARCHI AC FAMILY RESTAURANT",
+    "item": "Veg Biryani [half] With Chilli Paneer",
+    "price": 239,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "BAWARCHI AC FAMILY RESTAURANT",
+    "item": "Veg Biryani [half] With Chilli Paneer",
+    "price": 239,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "BNSON BLUE",
+    "item": "Veg Biryani",
+    "price": 240,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Green Chillyz",
+    "item": "Veg Biryani",
+    "price": 245,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Rasoi",
+    "item": "Veg Biryani +mushroom Chilly",
+    "price": 249,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "GREEN MIRCHI",
+    "item": "Vegetable Biryani",
+    "price": 249,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "GREEN MIRCHI",
+    "item": "Vegetable Biryani",
+    "price": 249,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "ANJANA RESTAURANT",
+    "item": "Veg Biryani",
+    "price": 249,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "GayTop Restaurant",
+    "item": "Mushroom Dum Biryani [serves 2]",
+    "price": 250,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "HOTEL ANAND",
+    "item": "Paneer Biryani[Full]",
+    "price": 250,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Food Court",
+    "item": "Veg Biryani",
+    "price": 269,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "The Mughlai King",
+    "item": "Veg Biryani",
+    "price": 280,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "The Mughlai King",
+    "item": "Veg Biryani",
+    "price": 280,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Food Court",
+    "item": "Paneer Biryani",
+    "price": 289,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Green Chillyz",
+    "item": "Matka Veg Biryani",
+    "price": 300,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Filmy Food",
+    "item": "Veg Hyderabadi Dum Biryani",
+    "price": 339,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Green Chillyz",
+    "item": "Kebab Biryani",
+    "price": 350,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Jagadamba Fast Food & Restaurant",
+    "item": "2 Veg Biryani + 1 Paneer Butter Masala + 1 Thumps Up(40Ml)",
+    "price": 399,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Rasoi",
+    "item": "1 Veg Biryani(Half) + Roti(6Pcs) + Paneer Butter Masala",
+    "price": 399,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Sanjaya Dhaba",
+    "item": "Special Paneer Biryani",
+    "price": 399,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Sanjaya Dhaba",
+    "item": "Special Veg Biryani",
+    "price": 399,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Bombay Restaurant- Hotel Bombay Inn",
+    "item": "1 Hyderabadi Biryani + 1 Kashmiri Pulao",
+    "price": 418,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Rasoi",
+    "item": "2 Veg Biryani(Half) + Chilly Paneer",
+    "price": 457,
+    "veg_or_non_veg": "Veg"
+  },
+  {
+    "restaurant": "Swaad Restaurant",
+    "item": "2 Veg Biryani(Full) + Paneer Chilli",
+    "price": 490,
+    "veg_or_non_veg": "Veg"
+  }
+]
